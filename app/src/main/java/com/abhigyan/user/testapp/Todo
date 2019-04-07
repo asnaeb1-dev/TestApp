@@ -1,0 +1,8 @@
+TODO: -Show an input field with search button. DONE
+TODO:  On click of search button, make a query to stackexchange and get all the question for the tag entered in the search input field.
+TODO:  List down all the results in the list.
+Show its score, number of answers,
+Person name and image who asked the question,
+link to the question, creation date,
+last activity date,
+view count  etc.
